@@ -1,4 +1,9 @@
-# Intelligent_Traffic_Management_Based_on_Traffic_Density
+# Intelligent Traffic Management Based on Traffic Density
+• Optimized traffic flow and reduced congestion using real-time data from sensors and cameras, analyzed with machine
+learning models, and also dynamically adjusts timings based on traffic patterns, minimizing wait times.
+• Prioritized emergency vehicles through V2I communication, ensuring swift passage through intersections.
+• Provided real-time traffic updates and alternative routes to drivers via mobile apps and public display systems,
+enhancing urban mobility.
 
 
 <img width="1200" alt="image" align="center" src="DOC-20240412-WA0006-1,DOC-20240412-WA0006-2,DOC-20240412-WA0006-3/DOC-20240412-WA0006-1.jpg">
