@@ -6,7 +6,6 @@ learning models, and also dynamically adjusts timings based on traffic patterns,
 enhancing urban mobility.
 
 
-<img width="1200" alt="image" align="center" src="DOC-20240412-WA0006-1,DOC-20240412-WA0006-2,DOC-20240412-WA0006-3/DOC-20240412-WA0006-1.jpg">
 <img width="1200" alt="image" src="DOC-20240412-WA0006-1,DOC-20240412-WA0006-2,DOC-20240412-WA0006-3/DOC-20240412-WA0006-2.jpg">
 <img width="1200" alt="image" src="DOC-20240412-WA0006-1,DOC-20240412-WA0006-2,DOC-20240412-WA0006-3/DOC-20240412-WA0006-3.jpg">
 <img width="1200" alt="image" src="DOC-20240412-WA0006-1,DOC-20240412-WA0006-2,DOC-20240412-WA0006-3/DOC-20240412-WA0006-4.jpg">
